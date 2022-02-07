@@ -14,4 +14,5 @@ for ( let i = 100; i <= 200; i++) {
   console.log(message);
   message = "";
 }
+// message the end
 console.log("The end");
